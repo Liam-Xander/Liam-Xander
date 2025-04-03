@@ -1,3 +1,3 @@
 ### Hi there !👋
 
-🤓 I'm Xingyu Li (李星宇) from China, currently focusing on UAVs, autonomous vehicles, machine learning, and the development of lightweight maps.
+🤓 I'm Xingyu Li (李星宇) from China, and I'm currently focusing on UAVs, autonomous vehicles, machine learning, and lightweight mapping based on ML.
