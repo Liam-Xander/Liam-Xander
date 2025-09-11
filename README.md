@@ -1,4 +1,3 @@
 ### Hi there !👋
 
-🤓 I am Xingyu Li (李星宇) from China. My academic journey has focused on machine learning for environmental representation and its application to motion planning in autonomous robots. Currently, my research interests center on UAVs, autonomous driving, machine learning, and lightweight ML-based mapping. I am applying for a Ph.D. program starting in Fall 2026.
-
+🤓 I am Xingyu Li (李星宇) from China. My academic journey has focused on machine learning for environmental representation and its application to motion planning in autonomous robots. Enabling autonomous robots to make common-sense decisions in real, open environments by integrating symbolic planning, probabilistic reasoning, world modeling, and learning-based methods is a vision that resonates with me and aligns closely with my current research interests. At present, I am particularly interested in UAVs, autonomous driving, machine learning, and lightweight ML-based mapping. I am applying for a Ph.D. program starting in Fall 2026.
