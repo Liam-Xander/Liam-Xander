@@ -1,7 +1,7 @@
 ### Hi, I'm Xingyu Li (李星宇) 👋
 **PhD Applicant (Fall 2026)** | 📍 China
 
-I bridge the gap between **Agile Perception** and **Provable Safety** in autonomous systems.
+I want to bridge the gap between **Agile Perception** and **Provable Safety** in autonomous systems.
 
 ---
 
